@@ -187,6 +187,10 @@ section .title::after{
     z-index: -1;
   }
 
+  .spacer {
+      margin: 200px auto;
+  }
+
 .home .max-width{
   width: 100%;
   display: flex;
